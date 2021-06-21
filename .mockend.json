@@ -54,7 +54,7 @@
       "end": null,
       "status": "success",
       "percent": null
-    },
+    }
   ],
   "Comment": {
     "body": "string",

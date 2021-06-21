@@ -10,48 +10,36 @@
     {
       "project": "Самостоятельная жизнь после детдома",
       "title": "Подготовка воспитанников и выпускников к самостоятельной жизни",
-      "start": "date",
-      "end": "date",
       "status": "progress",
       "percent": "76"
     },
     {
       "project": "Паллиатив",
       "title": "Уточнение категории благополучателей",
-      "start": "date",
-      "end": null,
       "status": "success",
       "percent": null
     },
     {
       "project": "Самостоятельная жизнь после детдома",
       "title": "Подготовка воспитанников и выпускников к самостоятельной жизни",
-      "start": "date",
-      "end": "date",
       "status": "start",
       "percent": null
     },
     {
       "project": "Самостоятельная жизнь после детдома",
       "title": "Подготовка воспитанников и выпускников к самостоятельной жизни",
-      "start": "date",
-      "end": "date",
       "status": "start",
       "percent": null
     },
     {
       "project": "Самостоятельная жизнь после детдома",
       "title": "Подготовка воспитанников и выпускников к самостоятельной жизни",
-      "start": "date",
-      "end": "date",
       "status": "start",
       "percent": null
     },
     {
       "project": "Паллиатив",
       "title": "Уточнение категории благополучателей",
-      "start": "date",
-      "end": null,
       "status": "success",
       "percent": null
     }
